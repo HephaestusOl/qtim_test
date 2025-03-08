@@ -1,0 +1,12 @@
+[
+    {
+        "name": "appliances",
+        "imageUrl": "assets/images/appliances.jpg",
+        "productCount": 10
+    },
+    {
+        "name": "dishes",
+        "imageUrl": "assets/images/dishes.jpg",
+        "productCount": 7
+    }
+]
